@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
  
-  <img align="right" alt="Master_Sword" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif">
+  <img align="75%-right" alt="Master_Sword" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif">
 </div>
 
 - 🔭  Hoje trabalho com Back-End ...
