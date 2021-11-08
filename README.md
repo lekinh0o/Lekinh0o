@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
  
-  <img align="right" alt="Master_Sword" height="75" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/images/images/022/387/775/original/caleb-barefoot-master-sword-hexel-animated2.gif?1575264646">
+  <img align="right" alt="Master_Sword" height="75" style="border-radius:50px;" src="https://i.pinimg.com/564x/fc/a5/8d/fca58d5c001bb183b360ed9659402dec.jpg">
 </div>
 
 - 🔭  Hoje trabalho com Back-End ...
