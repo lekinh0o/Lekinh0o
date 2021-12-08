@@ -2,10 +2,10 @@
 
 ### Em busca da Master Sword
 
-<div style="display: inline_block"><br>
- 
-  <img align="right" alt="Master_Sword" height="150" width="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif">
-</div>
+<div   style="display: inline_block"><br>
+ <a href="https://www.linkedin.com/in/alexvagomorais/" target="_blank"> <img align="right" alt="Master_Sword" height="150" width="200" style="border-radius:50px;"  src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif">
+</a>
+  </div>
 
 
 - 🔭  Hoje trabalho com Back-End ...
